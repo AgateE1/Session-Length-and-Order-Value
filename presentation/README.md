@@ -1,3 +1,3 @@
 Presentation used to explain the findings
 
-To open file press - "View Item"
+To open file press - "View raw"
