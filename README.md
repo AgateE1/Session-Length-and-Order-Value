@@ -3,7 +3,7 @@
 
 **How long does it take someone to buy, and is that a number worth managing?**
 
-Self-directed analysis of the **public GA4 sample e-commerce dataset** (Google Merchandise Store, 1 Nov 2020 to 31 Jan 2021), framed around a realistic product question. Fully reproducible: the queries run against `bigquery-public-data` as written.
+Self-directed Product analysis of the **public GA4 sample e-commerce dataset** (Google Merchandise Store, 1 Nov 2020 to 31 Jan 2021), framed around a realistic product question. Fully reproducible: the queries run against `bigquery-public-data` as written.
 
 `BigQuery` · `Standard SQL` · `Looker Studio` · `GA4 event data` · `window functions` · `statistical testing`
 
