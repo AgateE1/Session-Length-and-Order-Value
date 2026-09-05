@@ -3,9 +3,9 @@
 
 **How long does it take someone to buy, and is that a number worth managing?**
 
-Self-directed Product analysis of the **public GA4 sample e-commerce dataset** (Google Merchandise Store, 1 Nov 2020 to 31 Jan 2021), framed around a realistic product question. Fully reproducible: the queries run against `bigquery-public-data` as written.
+Self-directed [Product analysis](https://datastudio.google.com/s/kZ7BxVQoD_s) of the [**public GA4 sample e-commerce dataset**](https://docs.google.com/spreadsheets/d/1NIraeukk8y9geBQEWABPiL7rXrhM5DL-rmTruKFEPtQ/edit?gid=1350506920#gid=1350506920) (Google Merchandise Store, 1 Nov 2020 to 31 Jan 2021), framed around a realistic product question. Fully reproducible: the queries run against `bigquery-public-data` as written.
 
-`BigQuery` · [SQL](https://github.com/AgateE1/Session-Length-and-Order-Value/tree/main/SQL%20queries) · [Looker Studio](https://datastudio.google.com/s/l5HfiXlegaw) · [GA4 event data](https://docs.google.com/spreadsheets/d/1NIraeukk8y9geBQEWABPiL7rXrhM5DL-rmTruKFEPtQ/edit?gid=1350506920#gid=1350506920) · `window functions` · `statistical testing`
+`BigQuery` · [SQL](https://github.com/AgateE1/Session-Length-and-Order-Value/tree/main/SQL%20queries) · Looker Studio ·  GA4 event data · `window functions` · `statistical testing`
 
 ---
 
